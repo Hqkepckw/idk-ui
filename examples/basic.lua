@@ -1,4 +1,4 @@
-local Mono = loadstring(game:HttpGet("https://raw.githubusercontent.com/YourName/mono-ui/main/dist/Mono.lua"))()
+local Mono = loadstring(game:HttpGet("https://raw.githubusercontent.com/Hqkepckw/idk-ui/refs/heads/main/dist/bruh.lua"))()
 
 local Window = Mono:CreateWindow({
     Title     = "My Script",
